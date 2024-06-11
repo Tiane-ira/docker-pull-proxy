@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/nginx:latest
+tzfun/etcd-workbench:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/etcd-workbench:latest
