@@ -1,1 +1,1 @@
-tzfun/etcd-workbench:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/cloud:tzfun/etcd-workbench:latest
+tzfun/etcd-workbench:latest registry-vpc.cn-hangzhou.aliyuncs.com/tzfun/etcd-workbench:latest
