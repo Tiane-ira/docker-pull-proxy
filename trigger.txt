@@ -1,1 +1,1 @@
-tzfun/etcd-workbench:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/etcd-workbench:latest
+evildecay/etcdkeeper:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/etcdkeeper:latest
