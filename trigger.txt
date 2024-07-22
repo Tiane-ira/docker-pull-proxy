@@ -1,1 +1,2 @@
 multiarch/qemu-user-static:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/qemu-user-static:latest
+
