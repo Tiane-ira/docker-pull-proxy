@@ -1,1 +1,1 @@
-tzfun/etcd-workbench:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/etcd-workbench:latest
+multiarch/qemu-user-static:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/qemu-user-static:latest
