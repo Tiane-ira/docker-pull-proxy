@@ -1,2 +1,1 @@
-nsioo/ewomailserver:latest registry.cn-hangzhou.aliyuncs.com/nsioo/ewomailserver:latest
-
+nsioo/ewomailserver:latest
