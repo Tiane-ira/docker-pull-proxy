@@ -1,2 +1,2 @@
-docker.io/multiarch/qemu-user-static:latest registry.cn-hangzhou.aliyuncs.com/xrj4j/qemu-user-static:latest
+nsioo/ewomailserver:latest registry.cn-hangzhou.aliyuncs.com/nsioo/ewomailserver:latest
 
